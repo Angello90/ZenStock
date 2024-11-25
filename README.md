@@ -1,8 +1,14 @@
-# React + Vite
+# ZenStock
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Stack:
 
-Currently, two official plugins are available:
+- ### Front-End
+    - [Rect js](https://react.dev/)
+    - [Auth js](https://authjs.dev/)
+    - [React Router](https://www.npmjs.com/package/react-router-dom)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+- ### Back-End
+    - [Express Js](https://expressjs.com/fr/)
+    - [Prisma](https://www.prisma.io/) 
+    - [Postgresql](https://www.postgresql.org/)
